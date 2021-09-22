@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">SignUpForm</string>
+    <string name="register">REGISTER</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="input_password">Input password</string>
+    <string name="input_email">Input email</string>
+    <string name="input_username">Input username</string>
+    <string name="create_a_new_account">Create a new account</string>
 </resources>
